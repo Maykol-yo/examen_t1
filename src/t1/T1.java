@@ -17,6 +17,8 @@ public class T1 {
         // TODO code application logic here
         System.out.println("Hola Mundo");
         System.out.println("jajajajajjajajajjaja");
+        System.out.print("mi mama me mima ");
+        
     }
     
 }
